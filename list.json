@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen3+GCN5",
+    "name": "Cezanne",
+    "listname": "Cezanne",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Cezanne"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Broadwell",
+    "name": "Broadwell_2+2",
+    "listname": "Broadwell_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_2+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "IvyBridge",
+    "name": "IvyBridge_E",
+    "listname": "IvyBridge_E",
+    "url": "https://misdake.github.io/ChipAnnotationData8/IvyBridge_E"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
+    "name": "SandyBridge_EP",
+    "listname": "SandyBridge_EP",
+    "url": "https://misdake.github.io/ChipAnnotationData8/SandyBridge_EP"
+  },
+  {
+    "vendor": "Loongson",
+    "type": "CPU",
+    "family": "Loongson3",
+    "name": "3C5000L",
+    "listname": "3C5000L",
+    "url": "https://misdake.github.io/ChipAnnotationData8/3C5000L"
+  },
+  {
+    "vendor": "Qualcomm",
+    "type": "CPU",
+    "family": "Snapdragon",
+    "name": "Snapdragon820",
+    "listname": "Snapdragon820",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Snapdragon820"
+  },
+  {
+    "vendor": "Qualcomm",
+    "type": "CPU",
+    "family": "Snapdragon",
+    "name": "Snapdragon888",
+    "listname": "Snapdragon888",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Snapdragon888"
+  },
+  {
+    "vendor": "Samsung",
+    "type": "CPU",
+    "family": "Exynos8",
+    "name": "Exynos8890",
+    "listname": "Exynos8890",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Exynos8890"
+  },
+  {
+    "vendor": "Sunway",
+    "type": "CPU",
+    "family": "SW-3",
+    "name": "SW1621",
+    "listname": "SW1621",
+    "url": "https://misdake.github.io/ChipAnnotationData8/SW1621"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "IvyBridge",
+  "name": "IvyBridge_E",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 2,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Nov 6, 2023 12:26:53 PM",
+  "width": 4360,
+  "height": 3807,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 9,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

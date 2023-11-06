@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "Broadwell",
+  "name": "Broadwell_2+2",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 3,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Nov 6, 2023 12:29:50 PM",
+  "width": 10478,
+  "height": 4819,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 21,
+      "yMax": 10
+    },
+    {
+      "level": 1,
+      "xMax": 11,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

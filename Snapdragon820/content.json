@@ -1,0 +1,43 @@
+{
+  "vendor": "Qualcomm",
+  "type": "CPU",
+  "family": "Snapdragon",
+  "name": "Snapdragon820",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 8,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Nov 6, 2023 12:45:10 PM",
+  "width": 5331,
+  "height": 5389,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 11,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

@@ -1,0 +1,38 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "SandyBridge",
+  "name": "SandyBridge_EP",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 1,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Nov 6, 2023 12:25:34 PM",
+  "width": 3884,
+  "height": 3876,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

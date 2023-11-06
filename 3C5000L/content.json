@@ -1,0 +1,43 @@
+{
+  "vendor": "Loongson",
+  "type": "CPU",
+  "family": "Loongson3",
+  "name": "3C5000L",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 5,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Nov 6, 2023 12:37:18 PM",
+  "width": 5882,
+  "height": 6291,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 13
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

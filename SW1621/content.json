@@ -1,0 +1,43 @@
+{
+  "vendor": "Sunway",
+  "type": "CPU",
+  "family": "SW-3",
+  "name": "SW1621",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 4,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Nov 6, 2023 12:32:54 PM",
+  "width": 4857,
+  "height": 4310,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 10,
+      "yMax": 9
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
