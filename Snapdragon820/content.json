@@ -1,6 +1,6 @@
 {
   "vendor": "Qualcomm",
-  "type": "CPU",
+  "type": "SoC",
   "family": "Snapdragon",
   "name": "Snapdragon820",
   "githubRepo": "misdake/ChipAnnotationData8",

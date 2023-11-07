@@ -1,0 +1,43 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A5",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 11,
+  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "createTime": "Nov 7, 2023 3:27:36 PM",
+  "width": 6083,
+  "height": 5038,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 10
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 12.16,
+  "heightMillimeter": 10.08
+}

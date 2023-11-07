@@ -1,0 +1,43 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A14",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 23,
+  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "createTime": "Nov 7, 2023 3:14:14 PM",
+  "width": 4028,
+  "height": 4846,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 10
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 8.63,
+  "heightMillimeter": 10.4
+}

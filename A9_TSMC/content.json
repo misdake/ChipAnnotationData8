@@ -1,0 +1,43 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A9_TSMC",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 17,
+  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "createTime": "Nov 7, 2023 3:10:42 PM",
+  "width": 4507,
+  "height": 5419,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 9,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 9.28,
+  "heightMillimeter": 11.28
+}

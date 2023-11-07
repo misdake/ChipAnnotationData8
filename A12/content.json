@@ -1,0 +1,43 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A12",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 21,
+  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "createTime": "Nov 7, 2023 3:13:39 PM",
+  "width": 5187,
+  "height": 6159,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 11,
+      "yMax": 13
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 8.49,
+  "heightMillimeter": 10.04
+}

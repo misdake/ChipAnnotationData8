@@ -1,0 +1,43 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A7",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 14,
+  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "createTime": "Nov 7, 2023 3:07:28 PM",
+  "width": 4942,
+  "height": 5183,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 10,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 9.83,
+  "heightMillimeter": 10.45
+}

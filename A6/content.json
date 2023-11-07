@@ -1,0 +1,43 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A6",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 13,
+  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "createTime": "Nov 7, 2023 3:06:45 PM",
+  "width": 4883,
+  "height": 5032,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 10,
+      "yMax": 10
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 9.71,
+  "heightMillimeter": 9.99
+}

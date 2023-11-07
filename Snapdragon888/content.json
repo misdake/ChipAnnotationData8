@@ -1,6 +1,6 @@
 {
   "vendor": "Qualcomm",
-  "type": "CPU",
+  "type": "SoC",
   "family": "Snapdragon",
   "name": "Snapdragon888",
   "githubRepo": "misdake/ChipAnnotationData8",

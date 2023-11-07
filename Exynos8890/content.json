@@ -1,6 +1,6 @@
 {
   "vendor": "Samsung",
-  "type": "CPU",
+  "type": "SoC",
   "family": "Exynos8",
   "name": "Exynos8890",
   "githubRepo": "misdake/ChipAnnotationData8",
