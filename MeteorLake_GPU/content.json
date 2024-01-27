@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "MeteorLake",
+  "name": "MeteorLake_GPU",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 28,
+  "source": "https://www.bilibili.com/opus/877367784570355731",
+  "createTime": "Jan 27, 2024 12:44:36 PM",
+  "width": 7861,
+  "height": 3240,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 16,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 8,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 4.2,
+  "heightMillimeter": 9.97
+}

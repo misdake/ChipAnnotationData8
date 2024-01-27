@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "MeteorLake",
+  "name": "MeteorLake_CPU_2+8",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 29,
+  "source": "https://www.bilibili.com/opus/877367784570355731",
+  "createTime": "Jan 27, 2024 12:43:49 PM",
+  "width": 6134,
+  "height": 3722,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 4.78,
+  "heightMillimeter": 7.86
+}

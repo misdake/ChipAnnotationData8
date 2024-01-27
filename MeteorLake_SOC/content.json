@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "MeteorLake",
+  "name": "MeteorLake_SOC",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 27,
+  "source": "https://www.bilibili.com/opus/877367784570355731",
+  "createTime": "Jan 27, 2024 12:45:52 PM",
+  "width": 8370,
+  "height": 7094,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 17,
+      "yMax": 14
+    },
+    {
+      "level": 1,
+      "xMax": 9,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.67,
+  "heightMillimeter": 9.07
+}

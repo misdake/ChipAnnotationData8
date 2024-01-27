@@ -2,10 +2,26 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen2+RDNA2",
+    "name": "VanGogh",
+    "listname": "VanGogh",
+    "url": "https://misdake.github.io/ChipAnnotationData8/VanGogh"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen3+GCN5",
     "name": "Cezanne",
     "listname": "Cezanne",
     "url": "https://misdake.github.io/ChipAnnotationData8/Cezanne"
+  },
+  {
+    "vendor": "AMD",
+    "type": "GPU",
+    "family": "RDNA2",
+    "name": "Navi23",
+    "listname": "Navi23",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Navi23"
   },
   {
     "vendor": "Apple",
@@ -138,10 +154,50 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_CPU_2+8",
+    "listname": "MeteorLake_CPU_2+8",
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_CPU_2+8"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_GPU",
+    "listname": "MeteorLake_GPU",
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_GPU"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_IO",
+    "listname": "MeteorLake_IO",
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_IO"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_SOC",
+    "listname": "MeteorLake_SOC",
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_SOC"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "SandyBridge",
     "name": "SandyBridge_EP",
     "listname": "SandyBridge_EP",
     "url": "https://misdake.github.io/ChipAnnotationData8/SandyBridge_EP"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "OmniPath",
+    "listname": "OmniPath",
+    "url": "https://misdake.github.io/ChipAnnotationData8/OmniPath"
   },
   {
     "vendor": "Loongson",

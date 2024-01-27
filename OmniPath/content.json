@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "Skylake",
+  "name": "OmniPath",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 25,
+  "source": "https://www.bilibili.com/opus/862274466353250345",
+  "createTime": "Jan 27, 2024 6:29:46 AM",
+  "width": 6715,
+  "height": 4334,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 14,
+      "yMax": 9
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 6.62,
+  "heightMillimeter": 10.16
+}
