@@ -16,7 +16,7 @@
     "url": "https://misdake.github.io/ChipAnnotationData8/Cezanne"
   },
   {
-    "vendor": "AMD",
+    "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA2",
     "name": "Navi23",
