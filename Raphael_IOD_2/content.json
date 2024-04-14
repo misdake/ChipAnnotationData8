@@ -1,0 +1,48 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen4",
+  "name": "Raphael_IOD_2",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 32,
+  "source": "https://www.ysjf.com/productDetail?id=66178cfee962d370d015ae6d",
+  "createTime": "Apr 14, 2024 2:53:46 PM",
+  "width": 12219,
+  "height": 9409,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 24,
+      "yMax": 19
+    },
+    {
+      "level": 1,
+      "xMax": 12,
+      "yMax": 10
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 12.54,
+  "heightMillimeter": 9.653
+}

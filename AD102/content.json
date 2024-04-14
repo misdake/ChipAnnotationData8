@@ -1,0 +1,43 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Ada",
+  "name": "AD102",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 33,
+  "source": "https://www.ysjf.com/productDetail?id\u003d66178cfee962d370d015ae6d",
+  "createTime": "Apr 14, 2024 2:57:30 PM",
+  "width": 4424,
+  "height": 5026,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 9,
+      "yMax": 10
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 23.1,
+  "heightMillimeter": 26.3
+}

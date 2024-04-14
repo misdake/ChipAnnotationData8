@@ -16,6 +16,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData8/Cezanne"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4",
+    "name": "Raphael_IOD_2",
+    "listname": "Raphael IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Raphael_IOD_2"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA2",
@@ -238,5 +246,13 @@
     "name": "SW1621",
     "listname": "SW1621",
     "url": "https://misdake.github.io/ChipAnnotationData8/SW1621"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ada",
+    "name": "AD102",
+    "listname": "AD102",
+    "url": "https://misdake.github.io/ChipAnnotationData8/AD102"
   }
 ]
