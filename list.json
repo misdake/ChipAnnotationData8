@@ -251,8 +251,8 @@
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Ada",
-    "name": "AD102",
+    "name": "AD102_2",
     "listname": "AD102",
-    "url": "https://misdake.github.io/ChipAnnotationData8/AD102"
+    "url": "https://misdake.github.io/ChipAnnotationData8/AD102_2"
   }
 ]

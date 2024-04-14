@@ -2,7 +2,7 @@
   "vendor": "nVIDIA",
   "type": "GPU",
   "family": "Ada",
-  "name": "AD102",
+  "name": "AD102_2",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 33,
   "source": "https://www.ysjf.com/productDetail?id\u003d66178cfee962d370d015ae6d",
