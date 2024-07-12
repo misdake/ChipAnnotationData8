@@ -24,7 +24,7 @@
     "url": "https://misdake.github.io/ChipAnnotationData8/Raphael_IOD_2"
   },
   {
-    "vendor": "AMD",
+    "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA",
     "name": "Navi12",
