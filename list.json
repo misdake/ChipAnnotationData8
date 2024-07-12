@@ -24,6 +24,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData8/Raphael_IOD_2"
   },
   {
+    "vendor": "AMD",
+    "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi12",
+    "listname": "Navi12",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Navi12"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA2",
@@ -144,12 +152,28 @@
     "url": "https://misdake.github.io/ChipAnnotationData8/A9_TSMC"
   },
   {
+    "vendor": "Glenfly",
+    "type": "GPU",
+    "family": "",
+    "name": "Arise1020",
+    "listname": "Arise1020",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Arise1020"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Broadwell",
     "name": "Broadwell_2+2",
     "listname": "Broadwell_2+2",
     "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_2+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Broadwell",
+    "name": "Broadwell_4+4e",
+    "listname": "Broadwell_4+4e",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_4+4e"
   },
   {
     "vendor": "Intel",
@@ -206,6 +230,14 @@
     "name": "OmniPath",
     "listname": "OmniPath",
     "url": "https://misdake.github.io/ChipAnnotationData8/OmniPath"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Skylake_4+4e",
+    "listname": "Skylake_4+4e",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Skylake_4+4e"
   },
   {
     "vendor": "Loongson",

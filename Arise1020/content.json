@@ -1,0 +1,48 @@
+{
+  "vendor": "Glenfly",
+  "type": "GPU",
+  "family": "",
+  "name": "Arise1020",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 37,
+  "source": "https://www.bilibili.com/opus/937996479478366209",
+  "createTime": "Jul 12, 2024 3:11:46 PM",
+  "width": 9034,
+  "height": 11024,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 18,
+      "yMax": 22
+    },
+    {
+      "level": 1,
+      "xMax": 9,
+      "yMax": 11
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 8.64,
+  "heightMillimeter": 10.51
+}
