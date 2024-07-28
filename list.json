@@ -24,6 +24,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData8/Raphael_IOD_2"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen5+RDNA3.5",
+    "name": "StrixPoint",
+    "listname": "StrixPoint",
+    "url": "https://misdake.github.io/ChipAnnotationData8/StrixPoint"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA",
