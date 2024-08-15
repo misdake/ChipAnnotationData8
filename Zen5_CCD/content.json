@@ -1,0 +1,48 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen5",
+  "name": "Zen5_CCD",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 39,
+  "source": "https://www.bilibili.com/opus/965843745820901377",
+  "createTime": "Aug 15, 2024 2:13:43 PM",
+  "width": 9768,
+  "height": 8379,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 20,
+      "yMax": 17
+    },
+    {
+      "level": 1,
+      "xMax": 10,
+      "yMax": 9
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 9.05,
+  "heightMillimeter": 7.76
+}

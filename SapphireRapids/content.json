@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "SapphireRapids",
+  "name": "SapphireRapids",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 40,
+  "source": "https://www.bilibili.com/video/BV1nb421J7jy",
+  "createTime": "Aug 15, 2024 2:16:23 PM",
+  "width": 6625,
+  "height": 6634,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 13,
+      "yMax": 13
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 19.7,
+  "heightMillimeter": 19.7
+}

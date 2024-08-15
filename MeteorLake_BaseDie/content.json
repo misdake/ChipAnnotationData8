@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "MeteorLake",
+  "name": "MeteorLake_BaseDie",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 41,
+  "source": "https://t.bilibili.com/877367784570355731",
+  "createTime": "Aug 15, 2024 2:21:14 PM",
+  "width": 5656,
+  "height": 11490,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 23
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 12
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
