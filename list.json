@@ -204,8 +204,8 @@
     "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_BaseDie",
-    "listname": "BaseDie",
-    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLakeBaseDie"
+    "listname": "MeteorLake_BaseDie",
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_BaseDie"
   },
   {
     "vendor": "Intel",
