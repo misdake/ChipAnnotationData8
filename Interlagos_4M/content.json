@@ -1,0 +1,43 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Bulldozer",
+  "name": "Interlagos_4M",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 44,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Sep 14, 2024 2:45:55 PM",
+  "width": 5605,
+  "height": 6888,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 11,
+      "yMax": 14
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 15.96,
+  "heightMillimeter": 19.67
+}

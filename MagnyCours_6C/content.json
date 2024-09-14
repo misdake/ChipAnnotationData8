@@ -1,0 +1,43 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "K10",
+  "name": "MagnyCours_6C",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 43,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Sep 14, 2024 2:44:34 PM",
+  "width": 5828,
+  "height": 8033,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 16
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 8
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 15.72,
+  "heightMillimeter": 21.64
+}
