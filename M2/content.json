@@ -1,0 +1,48 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "M2",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 47,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Sep 16, 2024 2:51:44 PM",
+  "width": 9455,
+  "height": 10327,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 19,
+      "yMax": 21
+    },
+    {
+      "level": 1,
+      "xMax": 10,
+      "yMax": 11
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 11.85,
+  "heightMillimeter": 12.93
+}

@@ -184,6 +184,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData8/A9_TSMC"
   },
   {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "M2",
+    "listname": "M2",
+    "url": "https://misdake.github.io/ChipAnnotationData8/M2"
+  },
+  {
     "vendor": "Glenfly",
     "type": "GPU",
     "family": "",
@@ -206,6 +214,22 @@
     "name": "Broadwell_4+4e",
     "listname": "Broadwell_4+4e",
     "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_4+4e"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Haswell",
+    "name": "Haswell_4+3e",
+    "listname": "Haswell_4+3e",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Haswell_4+3e"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Itanium",
+    "name": "Tukwila",
+    "listname": "Tukwila",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Tukwila"
   },
   {
     "vendor": "Intel",

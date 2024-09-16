@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "Itanium",
+  "name": "Tukwila",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 45,
+  "source": "https://www.bilibili.com/video/BV18dWCeZEQ9/",
+  "createTime": "Sep 16, 2024 2:42:44 PM",
+  "width": 9027,
+  "height": 5996,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 18,
+      "yMax": 12
+    },
+    {
+      "level": 1,
+      "xMax": 9,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 32.72,
+  "heightMillimeter": 21.76
+}

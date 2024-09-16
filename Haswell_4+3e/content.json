@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "Haswell",
+  "name": "Haswell_4+3e",
+  "githubRepo": "misdake/ChipAnnotationData8",
+  "githubIssueId": 46,
+  "source": "https://www.bilibili.com/video/BV1H3steiEqX/",
+  "createTime": "Sep 16, 2024 2:45:31 PM",
+  "width": 7995,
+  "height": 8067,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 16,
+      "yMax": 16
+    },
+    {
+      "level": 1,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 15.98,
+  "heightMillimeter": 16.14
+}
