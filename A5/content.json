@@ -5,7 +5,7 @@
   "name": "A5",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 11,
-  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "source": "https://www.bilibili.com/opus/864065081160237080",
   "createTime": "Nov 7, 2023 3:27:36 PM",
   "width": 6083,
   "height": 5038,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 12.16,
-  "heightMillimeter": 10.08
+  "heightMillimeter": 10.08,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A5"
 }

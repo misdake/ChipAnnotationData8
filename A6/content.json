@@ -5,7 +5,7 @@
   "name": "A6",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 13,
-  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "source": "https://www.bilibili.com/opus/864065081160237080",
   "createTime": "Nov 7, 2023 3:06:45 PM",
   "width": 4883,
   "height": 5032,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 9.71,
-  "heightMillimeter": 9.99
+  "heightMillimeter": 9.99,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A6"
 }

@@ -44,5 +44,8 @@
     }
   ],
   "widthMillimeter": 32.72,
-  "heightMillimeter": 21.76
+  "heightMillimeter": 21.76,
+  "imageAuthorName": "Intel",
+  "imageAuthorUrl": "https://www.intel.com/",
+  "specUrl": "https://en.wikipedia.org/wiki/Tukwila_(processor)"
 }

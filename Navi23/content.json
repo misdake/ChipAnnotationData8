@@ -1,11 +1,11 @@
 {
-  "vendor": "AMD",
+  "vendor": "ATI/AMD",
   "type": "GPU",
   "family": "RDNA2",
   "name": "Navi23",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 31,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "",
   "createTime": "Jan 27, 2024 1:33:34 PM",
   "width": 7518,
   "height": 6482,
@@ -38,6 +38,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 16.5795,
+  "heightMillimeter": 14.2948,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-navi-23.g926"
 }

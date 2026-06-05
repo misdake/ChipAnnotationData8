@@ -43,6 +43,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 0,
+  "heightMillimeter": 0,
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-ultra-9-185h.c3308",
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429"
 }

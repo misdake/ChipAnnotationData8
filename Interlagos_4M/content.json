@@ -5,7 +5,7 @@
   "name": "Interlagos_4M",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 44,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "",
   "createTime": "Sep 14, 2024 2:45:55 PM",
   "width": 5605,
   "height": 6888,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 15.96,
-  "heightMillimeter": 19.67
+  "heightMillimeter": 19.67,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429/",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/opteron-6276.c1300"
 }

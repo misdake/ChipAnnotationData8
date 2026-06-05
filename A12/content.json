@@ -5,7 +5,7 @@
   "name": "A12",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 21,
-  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "source": "https://www.bilibili.com/opus/864065081160237080",
   "createTime": "Nov 7, 2023 3:13:39 PM",
   "width": 5187,
   "height": 6159,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 8.49,
-  "heightMillimeter": 10.04
+  "heightMillimeter": 10.04,
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "imageAuthorName": "万扯淡",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A12"
 }

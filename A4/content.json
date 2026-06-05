@@ -5,7 +5,7 @@
   "name": "A4",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 10,
-  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "source": "https://www.bilibili.com/opus/864065081160237080",
   "createTime": "Nov 7, 2023 3:05:07 PM",
   "width": 3366,
   "height": 3355,
@@ -34,5 +34,8 @@
     }
   ],
   "widthMillimeter": 7.32,
-  "heightMillimeter": 7.33
+  "heightMillimeter": 7.33,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A4"
 }

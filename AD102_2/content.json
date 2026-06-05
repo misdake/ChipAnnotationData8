@@ -5,7 +5,7 @@
   "name": "AD102_2",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 33,
-  "source": "https://www.ysjf.com/productDetail?id\u003d66178cfee962d370d015ae6d",
+  "source": "https://www.ysjf.com/productDetail?id=66178cfee962d370d015ae6d",
   "createTime": "Apr 14, 2024 2:57:30 PM",
   "width": 4424,
   "height": 5026,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 23.1,
-  "heightMillimeter": 26.3
+  "heightMillimeter": 26.3,
+  "imageAuthorName": "影视飓风",
+  "imageAuthorUrl": "https://www.ysjf.com/home",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/nvidia-ad102.g1005"
 }

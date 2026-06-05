@@ -5,7 +5,7 @@
   "name": "A10",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 19,
-  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "source": "https://www.bilibili.com/opus/864065081160237080",
   "createTime": "Nov 7, 2023 3:12:03 PM",
   "width": 5085,
   "height": 5389,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 10.93,
-  "heightMillimeter": 11.58
+  "heightMillimeter": 11.58,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A10"
 }

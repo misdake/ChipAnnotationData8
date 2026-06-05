@@ -4,7 +4,7 @@
     "type": "CPU",
     "family": "Bulldozer",
     "name": "Interlagos_4M",
-    "listname": "Interlagos_4M",
+    "listname": "Interlagos",
     "url": "https://misdake.github.io/ChipAnnotationData8/Interlagos_4M"
   },
   {
@@ -12,7 +12,7 @@
     "type": "CPU",
     "family": "K10",
     "name": "MagnyCours_6C",
-    "listname": "MagnyCours_6C",
+    "listname": "MagnyCours 6C",
     "url": "https://misdake.github.io/ChipAnnotationData8/MagnyCours_6C"
   },
   {
@@ -20,7 +20,6 @@
     "type": "CPU",
     "family": "Zen2+RDNA2",
     "name": "VanGogh",
-    "listname": "VanGogh",
     "url": "https://misdake.github.io/ChipAnnotationData8/VanGogh"
   },
   {
@@ -28,7 +27,6 @@
     "type": "CPU",
     "family": "Zen3+GCN5",
     "name": "Cezanne",
-    "listname": "Cezanne",
     "url": "https://misdake.github.io/ChipAnnotationData8/Cezanne"
   },
   {
@@ -44,7 +42,7 @@
     "type": "CPU",
     "family": "Zen5",
     "name": "Zen5_CCD",
-    "listname": "Zen5_CCD",
+    "listname": "Zen5 CCD",
     "url": "https://misdake.github.io/ChipAnnotationData8/Zen5_CCD"
   },
   {
@@ -52,7 +50,6 @@
     "type": "CPU",
     "family": "Zen5+RDNA3.5",
     "name": "StrixPoint",
-    "listname": "StrixPoint",
     "url": "https://misdake.github.io/ChipAnnotationData8/StrixPoint"
   },
   {
@@ -60,7 +57,6 @@
     "type": "GPU",
     "family": "RDNA",
     "name": "Navi12",
-    "listname": "Navi12",
     "url": "https://misdake.github.io/ChipAnnotationData8/Navi12"
   },
   {
@@ -68,7 +64,6 @@
     "type": "GPU",
     "family": "RDNA2",
     "name": "Navi23",
-    "listname": "Navi23",
     "url": "https://misdake.github.io/ChipAnnotationData8/Navi23"
   },
   {
@@ -76,7 +71,6 @@
     "type": "SoC",
     "family": "",
     "name": "A10",
-    "listname": "A10",
     "url": "https://misdake.github.io/ChipAnnotationData8/A10"
   },
   {
@@ -84,7 +78,6 @@
     "type": "SoC",
     "family": "",
     "name": "A11",
-    "listname": "A11",
     "url": "https://misdake.github.io/ChipAnnotationData8/A11"
   },
   {
@@ -92,7 +85,6 @@
     "type": "SoC",
     "family": "",
     "name": "A12",
-    "listname": "A12",
     "url": "https://misdake.github.io/ChipAnnotationData8/A12"
   },
   {
@@ -100,7 +92,6 @@
     "type": "SoC",
     "family": "",
     "name": "A14",
-    "listname": "A14",
     "url": "https://misdake.github.io/ChipAnnotationData8/A14"
   },
   {
@@ -108,7 +99,6 @@
     "type": "SoC",
     "family": "",
     "name": "A15",
-    "listname": "A15",
     "url": "https://misdake.github.io/ChipAnnotationData8/A15"
   },
   {
@@ -116,7 +106,6 @@
     "type": "SoC",
     "family": "",
     "name": "A4",
-    "listname": "A4",
     "url": "https://misdake.github.io/ChipAnnotationData8/A4"
   },
   {
@@ -124,7 +113,6 @@
     "type": "SoC",
     "family": "",
     "name": "A5",
-    "listname": "A5",
     "url": "https://misdake.github.io/ChipAnnotationData8/A5"
   },
   {
@@ -132,7 +120,6 @@
     "type": "SoC",
     "family": "",
     "name": "A5X",
-    "listname": "A5X",
     "url": "https://misdake.github.io/ChipAnnotationData8/A5X"
   },
   {
@@ -140,7 +127,6 @@
     "type": "SoC",
     "family": "",
     "name": "A6",
-    "listname": "A6",
     "url": "https://misdake.github.io/ChipAnnotationData8/A6"
   },
   {
@@ -148,7 +134,6 @@
     "type": "SoC",
     "family": "",
     "name": "A7",
-    "listname": "A7",
     "url": "https://misdake.github.io/ChipAnnotationData8/A7"
   },
   {
@@ -156,7 +141,6 @@
     "type": "SoC",
     "family": "",
     "name": "A8",
-    "listname": "A8",
     "url": "https://misdake.github.io/ChipAnnotationData8/A8"
   },
   {
@@ -164,7 +148,6 @@
     "type": "SoC",
     "family": "",
     "name": "A8X",
-    "listname": "A8X",
     "url": "https://misdake.github.io/ChipAnnotationData8/A8X"
   },
   {
@@ -172,7 +155,6 @@
     "type": "SoC",
     "family": "",
     "name": "A9X",
-    "listname": "A9X",
     "url": "https://misdake.github.io/ChipAnnotationData8/A9X"
   },
   {
@@ -180,15 +162,14 @@
     "type": "SoC",
     "family": "",
     "name": "A9_TSMC",
-    "listname": "A9_TSMC",
-    "url": "https://misdake.github.io/ChipAnnotationData8/A9_TSMC"
+    "url": "https://misdake.github.io/ChipAnnotationData8/A9_TSMC",
+    "listname": "A9 TSMC"
   },
   {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
     "name": "M2",
-    "listname": "M2",
     "url": "https://misdake.github.io/ChipAnnotationData8/M2"
   },
   {
@@ -196,7 +177,6 @@
     "type": "GPU",
     "family": "",
     "name": "Arise1020",
-    "listname": "Arise1020",
     "url": "https://misdake.github.io/ChipAnnotationData8/Arise1020"
   },
   {
@@ -204,31 +184,30 @@
     "type": "CPU",
     "family": "Broadwell",
     "name": "Broadwell_2+2",
-    "listname": "Broadwell_2+2",
-    "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_2+2"
+    "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_2+2",
+    "listname": "Broadwell 2+2"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Broadwell",
     "name": "Broadwell_4+4e",
-    "listname": "Broadwell_4+4e",
-    "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_4+4e"
+    "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_4+4e",
+    "listname": "Broadwell 4+4e"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Haswell",
     "name": "Haswell_4+3e",
-    "listname": "Haswell_4+3e",
-    "url": "https://misdake.github.io/ChipAnnotationData8/Haswell_4+3e"
+    "url": "https://misdake.github.io/ChipAnnotationData8/Haswell_4+3e",
+    "listname": "Haswell 4+3e"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Itanium",
     "name": "Tukwila",
-    "listname": "Tukwila",
     "url": "https://misdake.github.io/ChipAnnotationData8/Tukwila"
   },
   {
@@ -236,63 +215,62 @@
     "type": "CPU",
     "family": "IvyBridge",
     "name": "IvyBridge_E",
-    "listname": "IvyBridge_E",
-    "url": "https://misdake.github.io/ChipAnnotationData8/IvyBridge_E"
+    "url": "https://misdake.github.io/ChipAnnotationData8/IvyBridge_E",
+    "listname": "IvyBridge-E"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_BaseDie",
-    "listname": "MeteorLake_BaseDie",
-    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_BaseDie"
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_BaseDie",
+    "listname": "MeteorLake Base"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_CPU_2+8",
-    "listname": "MeteorLake_CPU_2+8",
-    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_CPU_2+8"
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_CPU_2+8",
+    "listname": "MeteorLake CPU 2+8"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_GPU",
-    "listname": "MeteorLake_GPU",
-    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_GPU"
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_GPU",
+    "listname": "MeteorLake GPU"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_IO",
-    "listname": "MeteorLake_IO",
-    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_IO"
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_IO",
+    "listname": "MeteorLake IO"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_SOC",
-    "listname": "MeteorLake_SOC",
-    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_SOC"
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_SOC",
+    "listname": "MeteorLake SOC"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "SandyBridge",
     "name": "SandyBridge_EP",
-    "listname": "SandyBridge_EP",
-    "url": "https://misdake.github.io/ChipAnnotationData8/SandyBridge_EP"
+    "url": "https://misdake.github.io/ChipAnnotationData8/SandyBridge_EP",
+    "listname": "SandyBridge EP"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "SapphireRapids",
     "name": "SapphireRapids",
-    "listname": "SapphireRapids",
     "url": "https://misdake.github.io/ChipAnnotationData8/SapphireRapids"
   },
   {
@@ -300,7 +278,6 @@
     "type": "CPU",
     "family": "Skylake",
     "name": "OmniPath",
-    "listname": "OmniPath",
     "url": "https://misdake.github.io/ChipAnnotationData8/OmniPath"
   },
   {
@@ -308,15 +285,14 @@
     "type": "CPU",
     "family": "Skylake",
     "name": "Skylake_4+4e",
-    "listname": "Skylake_4+4e",
-    "url": "https://misdake.github.io/ChipAnnotationData8/Skylake_4+4e"
+    "url": "https://misdake.github.io/ChipAnnotationData8/Skylake_4+4e",
+    "listname": "Skylake 4+4e"
   },
   {
     "vendor": "Loongson",
     "type": "CPU",
     "family": "Loongson3",
     "name": "3C5000L",
-    "listname": "3C5000L",
     "url": "https://misdake.github.io/ChipAnnotationData8/3C5000L"
   },
   {
@@ -324,7 +300,6 @@
     "type": "SoC",
     "family": "Snapdragon",
     "name": "Snapdragon820",
-    "listname": "Snapdragon820",
     "url": "https://misdake.github.io/ChipAnnotationData8/Snapdragon820"
   },
   {
@@ -332,7 +307,6 @@
     "type": "SoC",
     "family": "Snapdragon",
     "name": "Snapdragon888",
-    "listname": "Snapdragon888",
     "url": "https://misdake.github.io/ChipAnnotationData8/Snapdragon888"
   },
   {
@@ -340,7 +314,6 @@
     "type": "SoC",
     "family": "Exynos8",
     "name": "Exynos8890",
-    "listname": "Exynos8890",
     "url": "https://misdake.github.io/ChipAnnotationData8/Exynos8890"
   },
   {
@@ -348,7 +321,6 @@
     "type": "CPU",
     "family": "SW-3",
     "name": "SW1621",
-    "listname": "SW1621",
     "url": "https://misdake.github.io/ChipAnnotationData8/SW1621"
   },
   {
@@ -364,7 +336,6 @@
     "type": "GPU",
     "family": "Volta",
     "name": "GV100",
-    "listname": "GV100",
     "url": "https://misdake.github.io/ChipAnnotationData8/GV100"
   }
 ]

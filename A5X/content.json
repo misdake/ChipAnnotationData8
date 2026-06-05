@@ -5,7 +5,7 @@
   "name": "A5X",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 12,
-  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "source": "",
   "createTime": "Nov 7, 2023 3:05:57 PM",
   "width": 6491,
   "height": 6421,
@@ -38,6 +38,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 12.8342,
+  "heightMillimeter": 12.6958,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A5X"
 }

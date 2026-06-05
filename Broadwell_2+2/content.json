@@ -5,7 +5,7 @@
   "name": "Broadwell_2+2",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 3,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "",
   "createTime": "Nov 6, 2023 12:29:50 PM",
   "width": 10478,
   "height": 4819,
@@ -43,6 +43,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 17.0054,
+  "heightMillimeter": 7.8211,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-i7-5650u.c1814"
 }

@@ -5,7 +5,7 @@
   "name": "A14",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 23,
-  "source": "https://www.bilibili.com/opus/860516411688091701",
+  "source": "https://www.bilibili.com/opus/864065081160237080",
   "createTime": "Nov 7, 2023 3:14:14 PM",
   "width": 4028,
   "height": 4846,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 8.63,
-  "heightMillimeter": 10.4
+  "heightMillimeter": 10.4,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A14"
 }

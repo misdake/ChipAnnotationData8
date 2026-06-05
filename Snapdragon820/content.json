@@ -5,7 +5,7 @@
   "name": "Snapdragon820",
   "githubRepo": "misdake/ChipAnnotationData8",
   "githubIssueId": 8,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "https://www.bilibili.com/video/BV16LaSzMEnY/",
   "createTime": "Nov 6, 2023 12:45:10 PM",
   "width": 5331,
   "height": 5389,
@@ -38,6 +38,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 10.6055,
+  "heightMillimeter": 10.7209,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-820-mobile-platform"
 }
